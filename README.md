@@ -10,10 +10,10 @@ A (non-exhaustive) list of my current research interests:
 <summary>Some GitHub Stats</summary>
 
 <a href="https://github.com/nklkhlr/nklkhlr">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=nklkhlr&show_icons=true&include_all_commits=true&rank_icon=github" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=nklkhlr&show_icons=true&include_all_commits=true&rank_icon=github&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5" />
 </a>
 <a href="https://github.com/nklkhlr/nklkhlr">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nklkhlr&layout=compact&hide=jupyter+notebook,javascript,html,makefile,css&langs_count=5" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nklkhlr&layout=compact&hide=jupyter+notebook,javascript,html,makefile,css&langs_count=5&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5" />
 </a>
 
 </details>
