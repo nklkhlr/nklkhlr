@@ -3,8 +3,8 @@ Hi, I'm Nikolai, a postdoctoral researcher in the group of [Britta Velten](https
 A (non-exhaustive) list of my current research interests:
 * :globe_with_meridians: geometry and :doughnut: topology
 * :world_map: optimal transport
-* :chart_with_upwards_trend: probabilistic modeling
 * :electron: dynamical system
+* :chart_with_upwards_trend: probabilistic modeling
 
 <details>
 <summary>Some GitHub Stats</summary>
