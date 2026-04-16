@@ -1,4 +1,4 @@
-Hi, I'm Nikolai, a Junior Research Group Leader at the [Leibniz Institute for Food Systems Biology (LSB@TUM)](https://www.leibniz-lsb.de/en/). Previously, I was a postdoctoral researcher in the group of [Britta Velten](https://velten-group.org) where I develop methods to analyze omics data in a (subcellular) spatial context after having worked on graph-based methods to interpret [metabolome](https://github.com/LipiTUM/pymantra) and [lipidome](https://github.com/LipiTUM/LINEX2_package) data for my PhD.
+Hi, I'm Nikolai, a Junior Research Group Leader at the [Leibniz Institute for Food Systems Biology (LSB@TUM)](https://www.leibniz-lsb.de/en/). Previously, I was a postdoctoral researcher in the group of [Britta Velten](https://velten-group.org) where I develop methods to analyze omics data in a (subcellular) spatial context after having worked on graph-based methods to interpret [metabolome](https://github.com/LipiTUM/pymantra) and [lipidome](https://github.com/LipiTUM/LINEX2_package) data during my PhD.
 
 A (non-exhaustive) list of my current research interests:
 * :sushi: food biology
