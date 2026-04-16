@@ -1,10 +1,11 @@
-Hi, I'm Nikolai, a postdoctoral researcher in the group of [Britta Velten](https://velten-group.org). I develop methods to analyze omics data in a (subcellular) spatial context. Previously, I worked on graph-based methods to interpret [metabolome](https://github.com/LipiTUM/pymantra) and [lipidome](https://github.com/LipiTUM/LINEX2_package) data.
+Hi, I'm Nikolai, a Junior Research Group Leader at the [Leibniz Institute for Food Systems Biology (LSB@TUM)](https://www.leibniz-lsb.de/en/). Previously, I was a postdoctoral researcher in the group of [Britta Velten](https://velten-group.org) where I develop methods to analyze omics data in a (subcellular) spatial context after having worked on graph-based methods to interpret [metabolome](https://github.com/LipiTUM/pymantra) and [lipidome](https://github.com/LipiTUM/LINEX2_package) data for my PhD.
 
 A (non-exhaustive) list of my current research interests:
+* :sushi: food biology
+* :electron: graphs and dynamical system
+* :chart_with_upwards_trend: probabilistic modeling
 * :globe_with_meridians: geometry and :doughnut: topology
 * :world_map: optimal transport
-* :electron: dynamical system
-* :chart_with_upwards_trend: probabilistic modeling
 
 <details>
 <summary>Some GitHub Stats</summary>
